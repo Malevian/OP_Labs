@@ -7,10 +7,10 @@ int main() {
 	cin >> a;
 	if (a > 0) {
 
-		S = 4 * a * a;
-		cout << "\nSurface area of cube:" << S << endl;
+		S = 6 * a * a;
+		cout << "\nSurface area of the cube:" << S << endl;
 		V = a * a * a;
-		cout << "\nVolume of cube :" << V << endl;
+		cout << "\nVolume of the cube :" << V << endl;
 	}
 	else if (a <= 0)
 	{
