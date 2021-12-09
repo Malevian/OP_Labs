@@ -6,7 +6,7 @@ int main() {
 
 	int n;
 
-	cout << "Pick an amount of the prime numbers: " << endl;
+	cout << "Pick the amount of the prime numbers: " << endl;
 	cin >> n;
 
 	int k = 1;
